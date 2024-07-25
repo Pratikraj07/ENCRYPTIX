@@ -18,4 +18,11 @@
    -Offer an option to start a new round after the conclusion of the current round.  
 7. Display User Score:  
    -Track and display the user's score.    
-   -The score can be based on the number of attempts taken or the number of rounds won.  
+   -The score can be based on the number of attempts taken or the number of rounds won.
+
+# Task 2 (STUDENT GRADE CALCULATOR)
+1. **Input Marks**: Prompt the user to input the marks obtained (out of 100) in each subject.  
+2. **Compute Total Marks**: Calculate the total marks by summing the scores obtained in all subjects.  
+3. **Calculate Average Percentage**: Determine the average percentage by dividing the total marks by the number of subjects.  
+4. **Determine Grade**: Assign grades based on the calculated average percentage.  
+5. **Display Results**: Present the total marks, average percentage, and the corresponding grade to the user.  
