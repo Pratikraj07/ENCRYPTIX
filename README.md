@@ -1,4 +1,4 @@
-# ENCRYPTIX
+
 # Java Developer Internship at Encryptix
 
 # Task 1 (NUMBER GAME)
